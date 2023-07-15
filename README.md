@@ -1,4 +1,4 @@
-<h1>Hi, I'm Maria, a <(https://www.linkedin.com/in/maria-mcpherson-6b7239252/)>Bilingual IT Professional and Spanish Translator/Interpreter </a>☺</h1>
+<h1>Hi, I'm Maria, a <a href="https://www.linkedin.com/in/maria-mcpherson-6b7239252/">Bilingual IT Professional and Spanish Translator/Interpreter </a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
