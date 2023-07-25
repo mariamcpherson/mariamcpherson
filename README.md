@@ -10,10 +10,8 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mariamcpherson/activedirectory)
      - [File Sharing and Permissions](https://github.com/mariamcpherson/filshares)
   - [Network Security Groups (NSGs)](https://github.com/mariamcpherson/securitygroups)
-- <b>Observing Common Network Protocols</b>
- - [ICMP Protocol](https://github.com/mariamcpherson/os_ticket_prerequisites)
- - [osTicket: Post-Installation Configuration](https://github.com/mariamcpherson/os_ticket_postinstall)
- - [osTicket: Ticket Lifecycle Examples](https://github.com/mariamcpherson/os_lifecycle)
+- <b>[Observing Common Network Protocols](https://github.com/mariamcpherson/os_ticket_prerequisites)</b>
+
 
 <h2>🤳Connect with me:</h2>
 
