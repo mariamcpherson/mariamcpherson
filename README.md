@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mariamcpherson/activedirectory)
      - [File Sharing and Permissions](https://github.com/mariamcpherson/filshares)
   - [Network Security Groups (NSGs)](https://github.com/mariamcpherson/securitygroups)
-- <b>[Observing Common Network Protocols](https://github.com/mariamcpherson/os_ticket_prerequisites)</b>
+- <b>[Observing Common Network Protocols](https://github.com/mariamcpherson/protocols)</b>
 
 
 <h2>🤳Connect with me:</h2>
